@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPloymarphisam\ConAppPloymarphisam\obj\Debug\ConAppPloymarphisam.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPloymarphisam\ConAppPloymarphisam\obj\Debug\ConAppPloymarphisam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPloymarphisam\ConAppPloymarphisam\obj\Debug\ConAppPloymarphisam.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPloymarphisam\ConAppPloymarphisam\bin\Debug\ConAppPloymarphisam.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPloymarphisam\ConAppPloymarphisam\bin\Debug\ConAppPloymarphisam.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPloymarphisam\ConAppPloymarphisam\bin\Debug\ConAppPloymarphisam.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPloymarphisam\ConAppPloymarphisam\obj\Debug\ConAppPloymarphisam.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPloymarphisam\ConAppPloymarphisam\obj\Debug\ConAppPloymarphisam.pdb
